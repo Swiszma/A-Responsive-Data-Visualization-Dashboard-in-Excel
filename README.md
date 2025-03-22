@@ -1,2 +1,2 @@
 # A-Responsive-Data-Visualization-Dashboard-in-Excel
-A Descriptive, and responsive Dashboard, explaining various aspects and nature of Road Accidents in the UK. 
+A highly responsive and dynamic Dashboard description of various aspects and nature, as well as the mobility means of Road Accidents in the UK. Feel free to download an attached short clip of the dashboard and check it out!
